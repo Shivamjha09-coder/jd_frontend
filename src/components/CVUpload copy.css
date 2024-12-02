@@ -1,0 +1,25 @@
+.cv-upload-form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.cv-upload-form h2 {
+    color: #333;
+}
+
+.cv-upload-form input[type="file"] {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.cv-upload-form button {
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
